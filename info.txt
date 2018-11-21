@@ -1,0 +1,30 @@
+Creado por MrRecoveryy
+v1.01 (21/11/2018) 
+
+Más actualizaciones en: https://github.com/MrRecoveryy
+
+
+[MrR001.reg]
+
+-Añade Entradas de Registro:
+
+	-Mejoras de Latencia y Velocidad de Conexion en Juegos y Aplicaciones.
+	-Da más Prioridad a la Tarjeta Grafica para que se aproveche más su potencia.
+	-Scheduling Category activada en "High"
+	-GameDVR Deshabilitado: Causaba Caidas de Fotogramas
+
+
+[UltimatePlan]
+
+-Añade el plan "Maximo Rendimiento" a nuestro Panel de Control de Energia
+IMPORTANTE! (Solo abrir este archivo en PC`s de Alta Gama ,ya que gasta mucha energia en portatiles)
+
+	-Añade el plan "Máximo Rendimiento" a nuestro Panel de Control de Energia
+
+
+
+[HPET] (Pronto en la versión v1.02)
+Se puede llegar a ganar entre 10-15 FPS depende en PC de cada uno.
+(Depente cada PC se Comporta de Manera diferente)
+
+	-Evita Tartamudeos en pantalla y la Imagen es mas "Suave"
